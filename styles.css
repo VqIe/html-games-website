@@ -1,0 +1,23 @@
+Body {
+	font-family: monospace;
+background: black;
+	//background-image: linear-gradient(gray, white);
+}
+
+h1 {
+	color: #6d3975;
+	font-size: 20px;
+}
+
+P { 
+	font-size: 20px;
+}
+
+//P { text-align: center }
+
+H2 {
+	color:#6d3975;
+}
+
+
+	
